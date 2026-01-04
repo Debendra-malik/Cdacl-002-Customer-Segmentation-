@@ -165,7 +165,10 @@ plt.show()
 
 # 4......
 # POWER BI DASHBOARD – CUSTOMER SEGMENTATION
-
+1
+https://github.com/Debendra-malik/Cdacl-002-Customer-Segmentation-/blob/main/Customer%20Segmentation%20dashboard%201.png
+2
+https://github.com/Debendra-malik/Cdacl-002-Customer-Segmentation-/blob/main/Customer%20Segmentation%20dashboard%202.png
 
 # 5 ................
 # PROJECT EXPLANATION SCRIPT
