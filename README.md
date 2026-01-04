@@ -165,10 +165,11 @@ plt.show()
 
 # 4......
 # POWER BI DASHBOARD – CUSTOMER SEGMENTATION
-1
-https://github.com/Debendra-malik/Cdacl-002-Customer-Segmentation-/blob/main/Customer%20Segmentation%20dashboard%201.png
-2
-https://github.com/Debendra-malik/Cdacl-002-Customer-Segmentation-/blob/main/Customer%20Segmentation%20dashboard%202.png
+# DASHBOARD  1 
+<img width="1536" height="1024" alt="Customer Segmentation dashboard 1" src="https://github.com/user-attachments/assets/f350deb7-87f9-4703-b1be-f7ba839b0e8c" />
+
+# DASHBOARD 2
+<img width="1536" height="1024" alt="Customer Segmentation dashboard 2" src="https://github.com/user-attachments/assets/b5035f91-beb3-4b55-8f8b-85b9dcd98625" />
 
 # 5 ................
 # PROJECT EXPLANATION SCRIPT
