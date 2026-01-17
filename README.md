@@ -170,16 +170,3 @@ plt.show()
 
 # DASHBOARD 2
 <img width="1536" height="1024" alt="Customer Segmentation dashboard 2" src="https://github.com/user-attachments/assets/b5035f91-beb3-4b55-8f8b-85b9dcd98625" />
-
-# 5 ................
-# PROJECT EXPLANATION SCRIPT
-
-“Hello, my name is Debendra Malik.
-This project is Customer Segmentation Analysis using U.S. shopping data.
-The main goal of this project is to understand customer behavior and improve marketing strategies.
-First, I analyzed product categories to find where discounts are most effective. I found that clothing, accessories, and footwear perform better when discounts are applied.
-Next, I analyzed card spending based on age, season, and location. Customers between 26 to 35 years spend the most using cards. Spending increases during winter and festive seasons.
-Then, I used K-Means clustering to divide customers into four groups based on age, purchase amount, frequency, and discount usage.
-Each cluster represents a different customer type, such as price-sensitive, loyal customers, seasonal buyers, and premium shoppers.
-Finally, I created targeted marketing strategies for each cluster to increase sales and customer retention.
-This project helps businesses take data-driven decisions and improve customer satisfaction. Thank you.”
